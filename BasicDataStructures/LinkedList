@@ -32,3 +32,7 @@ the i-th item (unless of course you already have a pointer directly to that item
 and edits to the iith item.
 
 #Doubly Link lists
+Doubly linked list has pointers to the next and the previous nodes.
+Doubly linked lists allow us to traverse our list backwards. In a singly linked list, if you just had a pointer to 
+a node in the middle of a list, there would be no way to know what its previous node was. Not a problem in a doubly 
+linked list.
