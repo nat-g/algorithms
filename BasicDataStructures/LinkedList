@@ -1,0 +1,17 @@
+#Singly Linked Lists
+
+A linked list is a low-level data structure. It stores an ordered sequence of items in individual "node" objects 
+that have pointers to other nodes.
+
+In a singly-linked list, the nodes each have one pointer to the next node.
+
+The node is where data is stored in the linked list.
+In a linked list, the first node is called the head and the last node is called the tail.
+
+My simple implementation of a linked list includes the following methods:
+IsEmpty: checks if the liked list is empty
+Add: inserts a new node into the list
+Size: returns size of list
+Search: searches list for a node containing the requested data and returns that node if found, otherwise raises an error
+Remove: searches list for a node containing the requested data and removes it from list if found, otherwise raises an error
+
