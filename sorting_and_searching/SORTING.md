@@ -1,10 +1,10 @@
 ## Soring algorithms 
 
-- The bubble sort
-- The selection sort (could be done with the largest or smallest element)
-- The insertion sort
+- The Bubble sort
+- The Selection sort (could be done with the largest or smallest element)
+- The Insertion sort
 - The Shell sort
-- The merge sort
+- The Merge sort
 - The Quick sort
 
 Some good resources: sorting-algorithms.com, visualgo.net
